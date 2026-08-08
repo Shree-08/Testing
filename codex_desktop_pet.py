@@ -10,7 +10,7 @@ import random
 import tkinter as tk
 from datetime import datetime
 
-
+sd
 BG = "#f5f0ff"          # A single colour made transparent by Windows Tk.
 INK = "#27213a"
 PURPLE = "#7655d6"
